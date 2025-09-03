@@ -2,10 +2,10 @@
 
 I designed and executed the full analytics pipeline—leveraging **Snowflake** for data infrastructure, **Python** for data wrangling, and **Tableau** for interactive dashboards. Partnering closely with Marketing and Sales executives, I transformed complex media data from Kinetiq’s platform into a political insights case study that revealed how global audiences engaged with President Trump’s Address to Congress.
 
-**Key Findings Delivered**
-
-<img width="800" height="416" alt="image" src="https://github.com/user-attachments/assets/20bcad43-1f09-40ba-8cae-5a30ce33c97f" />
 **The World Watched Trump’s Address. But What Did They See?**
+<img width="800" height="416" alt="image" src="https://github.com/user-attachments/assets/20bcad43-1f09-40ba-8cae-5a30ce33c97f" />
+
+**Key Findings Delivered**
 
 * **Top Moments:** Identified the most replayed segments worldwide, including Trump’s shoutout to Elon Musk, with the U.S., Canada, Italy, and France leading coverage.
 
