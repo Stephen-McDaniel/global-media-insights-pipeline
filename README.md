@@ -5,14 +5,12 @@ I designed and executed the full analytics pipeline—leveraging **Snowflake** f
 **The World Watched Trump’s Address. But What Did They See?**
 <img width="800" height="416" alt="image" src="https://github.com/user-attachments/assets/20bcad43-1f09-40ba-8cae-5a30ce33c97f" />
 
-**Key Findings Delivered**
-
-* **Top Moments:** Identified the most replayed segments worldwide, including Trump’s shoutout to Elon Musk, with the U.S., Canada, Italy, and France leading coverage.
-
-<img width="800" height="401" alt="image" src="https://github.com/user-attachments/assets/5ba1c350-04ed-4cdf-91ac-ca2fc61e59d4" />
 **Hits by Second of Speech**
 Based on worldwide detections of post-speech coverage, which countries were the top to discuss his speech? You can drill into specific sections of his talk, by second, and see which countries discussed that the most.
+<img width="800" height="401" alt="image" src="https://github.com/user-attachments/assets/5ba1c350-04ed-4cdf-91ac-ca2fc61e59d4" />
 
+**Key Findings Delivered**
+* **Top Moments:** Identified the most replayed segments worldwide, including Trump’s shoutout to Elon Musk, with the U.S., Canada, Italy, and France leading coverage.
 * **Economic Hotspots:** Analyzed tariff discussions dominating coverage in Canada (20%) and Central Europe (Romania 38%, Albania 33%).
 * **Global Priorities:** Highlighted China’s emphasis on U.S. military strength vs. smaller nations’ focus on peace and foreign policy.
 * **Airtime Leaders:** Quantified which countries re-aired the speech most, led by the U.S., Canada, Brazil, and Italy.
